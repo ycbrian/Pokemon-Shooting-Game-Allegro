@@ -5,13 +5,13 @@ Use your weapones to beat these unfriendly creatures.
 This game is developed through Allegro gaming library.
 
 <p align="center">
-  <img src="./image/Main game 1.png" width="75%" alt="preview"/>
+  <img src="./image/Main game 1.png" width="50%" alt="preview"/>
 </p>
 
 ## How to play
 
 <p align="center">
-  <img src="./image/Game intro.png" width="75%" alt="preview"/>
+  <img src="./image/Game intro.png" width="50%" alt="preview"/>
 </p>
 
 See Allegro_MacOS.pdf for setting up Allegro on mac
